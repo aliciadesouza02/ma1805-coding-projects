@@ -1,2 +1,0 @@
-PROMPT 1 - DRAWING;
-This task involved creating a drawing by using pixel coordinates. I decided to make Mickey Mouse since its one of the most known drawings we have. Although I am a beginner in coding with p5 JS, I managed to create a pretty simillar drawing by mostly using ellipses, circles and curve functions. I would say this activity was very much of trial and error because I needed to get the proportions correctly to have a (somewhat) symmetrical face.

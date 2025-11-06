@@ -1,1 +1,0 @@
-Here I also used Tom's video to add my picture of Starry Night by Van Gogh. I wasn't very sure of how this part of the activity should go so I just used Tom's example as an inspiration. Since it was asked for a rection of how media carries cultural weight, I just added one of the most known pieces of art so far. 
